@@ -1,1 +1,2 @@
 1.0.0.3-GV-333-CL2
+https://github.com/epicshulker/version/raw/refs/heads/main/EpicClearLag-1.0-SNAPSHOT.jar
