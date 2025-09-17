@@ -1,2 +1,2 @@
-1.0.0.3-GV-333-CL1
+1.0.0.3-GV-333-CL2
 https://github.com/epicshulker/EpicClearLag/releases/download/EpicClearLag-CL3/EpicClearLag-1.0-SNAPSHOT.jar
